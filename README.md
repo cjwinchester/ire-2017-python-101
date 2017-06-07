@@ -27,15 +27,12 @@ As you learn to code, you will get stuck. Many times. Don't get discouraged!
 
 Sketching out your ideas on paper, in _pseudocode_, can be a good way to break things down. In other words, write out the things you want to accomplish informally, not worrying about syntax -- just get the ideas down on paper. Then come back and translate what you have into working code.
 
-**Ask for help.** There are many, many people in the journalism community who want to help you succeed. Here are just a handful of places you can post Python questions and get help from working journalists:
+**Ask for help.** There are many, many people in the journalism community who want to help you succeed. Here are just a handful of places where you can post Python questions and get help from working journalists:
 
 - [NICAR-L](https://www.ire.org/resource-center/listservs/subscribe-nicar-l/)
 - [Newsnerdery Slack](http://newsnerdery.org/) (check the #python channel)
-
 - [Lonely Coder's Club Slack](https://lcc-slack.herokuapp.com/)
-
 - [CAR Study Hall Slack](https://docs.google.com/forms/d/e/1FAIpQLSeI4othkRdgbCT0V2LRMeJklY1LfmUySkmnd0jNoWBfJswNUw/viewform)
-
 - [PythonJournos](https://github.com/PythonJournos/LearningPython/wiki)
 
 **... but Google your problem first.** It is _highly unlikely_ that you are the first person in history to encounter your problem. If you have an error message, Google it. If you are trying to remember "how to open a csv file in python," Google it. The ProPublica nerds have a [great post](https://www.propublica.org/nerds/item/how-to-ask-programming-questions) on question-asking strategies.
