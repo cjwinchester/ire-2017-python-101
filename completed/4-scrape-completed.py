@@ -57,7 +57,6 @@ Now let's scrape an actual page -- a table of certified lead burn instructors in
 """
 
 import requests
-from bs4 import BeautifulSoup
 
 # define URL
 url = 'http://texasagriculture.gov/Portals/0/Reports/PIR/certified_lead_burn_instructors.html'
