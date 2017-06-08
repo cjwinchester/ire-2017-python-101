@@ -21,7 +21,7 @@ import json
 
 # grab the webhook URL from your computer's environment
 # if it's not there, return None
-slack_webhook = os.environ.get('IRE_SLACK_WEBHOOK', None)
+slack_webhook = os.environ.get('IRE_2017_SLACK_HOOK', None)
 
 # check to see if you have the URL
 if slack_webhook:
